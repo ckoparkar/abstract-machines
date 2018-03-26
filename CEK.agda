@@ -1,4 +1,4 @@
-module A6 where
+module CEK where
 
 open import Data.Empty
 open import Data.Unit hiding (_≟_)
